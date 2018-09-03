@@ -158,13 +158,19 @@ h5{
 footer{
   background: rgba(17,17,17,.75);
   color: white;
-  padding: 50px 175px;
-  display: flex;
+  padding: 50px 150px;
+}
+.footer-container{
+    border-bottom: 1px solid #AAC5FF;
+    display: flex;
+    padding-bottom: 2%;
 }
 footer a{
     color: white;
     /* font-weight: bold; */
-    padding-right: 50px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
 }
 footer h4{
     width: 350px;
@@ -175,4 +181,14 @@ footer h5{
 }
 footer div{
     margin: 0 50px;
+}
+footer span{
+    color: white;
+    text-transform: capitalize;
+    margin: 10px;
+    font-size: 12px;
+}
+.footer-social{
+    display: flex;
+    margin: 0;
 }
