@@ -1,0 +1,178 @@
+/* --------Importing Font------- */
+@font-face{
+  font-family:D-Din;
+  src:url("../d-din/D-DIN.otf");
+}
+/* --------Basic Stylings------- */
+body{
+  font-family: D-Din;
+  box-sizing: border-box;
+  background: #FAFCFB;
+}
+
+h1,h2,h3,h4,h5,span, button{
+  text-transform: uppercase;
+}
+.shade{
+    background: #F3F4F6;
+}
+/* --------Header Styles------- */
+h1{
+  font-size: 56px;
+  color: white;
+  width: 835px;
+  height: 264px;
+  padding: 0 0 0 80px;
+  letter-spacing: 2.5px;
+  line-height: 82px;
+  margin-top: 10px;
+}
+header nav{
+  font-size: 14px;
+  background: rgba(255,255,255,0.1);
+  /* opacity: 0.1; */
+  height: 69px;
+}
+a{
+    text-decoration: none;
+}
+nav a{
+  color: white;
+  opacity: 1;
+  text-transform: uppercase;
+  padding: 0 25px 0 25px;
+}
+header{
+  background: url("../assets/header.png");
+  height: 604px;
+}
+nav{
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+header div{
+  display: flex;
+  padding: 0 0 0 80px;
+  margin-top: 75px;
+}
+header img{
+  margin: auto 10px auto 0;
+}
+header h5{
+    font-size: 18px;
+}
+/* --------Main Section Styles------- */
+
+section{
+  padding: 25px 180px ;
+}
+.row{
+    display: flex;
+}
+h4{
+    text-align: center;
+}
+span{
+  color: #3E00FF;
+}
+.feature-heading{
+    display: flex;
+}
+.quote{
+  display: flex;
+  border-bottom: 1px solid #3172FD;
+  padding: 75px;
+}
+h3, h4, p{
+    font-size: 24px;
+}
+
+.user-list{
+    list-style-image: url('../assets/bullet-1.png');
+}
+.dapp-list{
+    list-style-image: url('../assets/bullet-2.png');
+}
+button{
+    background: #0064FB;
+    color: white;
+    border-radius: 22.5px;
+    width: 214px;
+    height: 45px;
+    font-size: 16px;
+}
+h5{
+    color: white;
+}
+/* --------Projects Section------- */
+.project-list{
+    /* display: flex;
+    flex-wrap: wrap; */
+    margin: 0 auto;
+}
+.project{
+    margin: 30px;
+    max-width: 120px;
+}
+
+/* --------Team Member Section------- */
+.profile p{
+  font-size: 16px;
+}
+.profile-list{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.profile{
+  width: 20%;
+  text-align: center;
+  margin: 2.5%;
+}
+.profile a{
+  padding: 5%;
+}
+
+/* --------News Section------- */
+.news{
+    display: flex;
+    flex-wrap: wrap;
+}
+.news h5{
+    color: #4A4A4A;
+    font-size: 18px;
+}
+.news-article{
+    width: 305px;
+    margin: 20px;
+}
+.news-article p{
+    font-size: 14px;
+}
+.news-article a{
+  color: #5B3AF0;
+  font-size: 14px;
+}
+/* --------Footer Styles------- */
+footer{
+  background: rgba(17,17,17,.75);
+  color: white;
+  padding: 50px 175px;
+  display: flex;
+}
+footer a{
+    color: white;
+    /* font-weight: bold; */
+    padding-right: 50px;
+}
+footer h4{
+    width: 350px;
+    text-align: left;
+}
+footer h5{
+    color: #979797;
+}
+footer div{
+    margin: 0 50px;
+}
