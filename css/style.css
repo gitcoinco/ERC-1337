@@ -167,6 +167,7 @@ h5{
 .news{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 1%;
 }
 .news h5{
     color: #4A4A4A;
@@ -175,6 +176,7 @@ h5{
 .news-article{
     width: 305px;
     margin: 20px auto;
+    padding-bottom: 3%;
 }
 .news-article p{
     font-size: 14px;
@@ -183,6 +185,9 @@ h5{
 .news-article a{
   color: #5B3AF0;
   font-size: 14px;
+}
+.news-article:nth-of-type(-n+3){
+  border-bottom: 1px solid #3172FD;
 }
 /* --------Footer Styles------- */
 footer{
@@ -207,6 +212,7 @@ footer a{
 footer h4{
     width: 350px;
     text-align: left;
+    margin-top: 0;
 }
 footer h5{
     color: #979797;
@@ -225,6 +231,14 @@ footer span{
     margin: 0;
 }
 /* --------Media Queries------- */
+@media screen and (max-width: 1290px){
+  .news-article:nth-of-type(-n+4){
+    border-bottom: 1px solid #3172FD;
+  }
+  section {
+    padding: 25px 100px;
+  }
+}
 @media screen and (max-width: 960px) {
   .profile{
     width: 40%;
@@ -252,5 +266,10 @@ footer span{
   }
   .quote{
     padding: 2%;
+  }
+}
+@media screen and (max-width: 650px){
+  .news-article:nth-of-type(-n+5){
+    border-bottom: 1px solid #3172FD;
   }
 }
