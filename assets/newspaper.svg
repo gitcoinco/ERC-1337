@@ -1,0 +1,44 @@
+
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 79 79 79 79 0 0 0"></polygon>
+        <path d="M23,17 L40,17" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-34" transform="translate(1.000000, 1.000000)">
+            <path d="M27.0794032,70 L8.4516129,70 C4.33708065,70 1,66.6892321 1,62.6071429 L1,1 L63.0967742,1 L63.0967742,62.6071429 C63.0967742,66.6892321 66.4326129,70 70.5483871,70 C74.6629194,70 78,66.6892321 78,62.6071429 L78,12.0892857 C78,10.047625 76.3320806,8.39285714 74.2741935,8.39285714 C72.2163065,8.39285714 70.5483871,10.047625 70.5483871,12.0892857 L70.5483871,62.6071429 L63.0967742,62.6071429" id="Stroke-1" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M70,70 L43,70" id="Stroke-3" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M74,9 L63,9" id="Stroke-5" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M31,42 L31,48" id="Stroke-7" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M36,44 L36,50" id="Stroke-9" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M41,47 L41,53" id="Stroke-11" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M28,65 L32,65" id="Stroke-13" stroke="#5B3AF0" stroke-width="3"></path>
+            <path d="M27.1717087,79 L27.1717087,65.4615385 C25.6051949,65.4615385 24.1767552,64.584 23.4939158,63.2018462 L17.3759764,50.8313846 C16.5600837,49.4172308 17.1186564,47.6215385 18.6010705,46.8941538 C19.9102644,46.2529231 21.5018826,46.6689231 22.3102439,47.8676923 L25.4595894,52.5384615 L25.9164893,52.5384615 L25.9164893,33.4615385 C25.9164893,32.1027692 27.0411659,31 28.4269281,31 C29.8126904,31 30.937367,32.1027692 30.937367,33.4615385 L30.937367,41.4615385 L33.4478058,41.4615385 C34.833568,41.4615385 35.9582446,42.5643077 35.9582446,43.9230769 L38.4686835,43.9230769 C39.8544457,43.9230769 40.9791223,45.0258462 40.9791223,46.3846154 L43.4895612,46.3846154 C44.8753234,46.3846154 46,47.4873846 46,48.8461538 L46,60.5384615 L43.4895612,65.4615385 L43.4895612,79" id="Stroke-15" stroke="#5B3AF0" stroke-width="3"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-18"></g>
+            <polygon id="Stroke-17" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)" points="9 26 56 26 56 9 9 9"></polygon>
+            <path d="M57,33 L31,33" id="Stroke-19" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M26,33 L7,33" id="Stroke-20" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M57,38 L31,38" id="Stroke-21" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M26,38 L7,38" id="Stroke-22" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M57,43 L36,43" id="Stroke-23" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M26,43 L7,43" id="Stroke-24" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M57,48 L46,48" id="Stroke-25" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M17,48 L7,48" id="Stroke-26" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M57,53 L46,53" id="Stroke-27" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M18,53 L7,53" id="Stroke-28" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M57,58 L46,58" id="Stroke-29" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <path d="M21,58 L7,58" id="Stroke-30" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)"></path>
+            <polyline id="Stroke-31" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)" points="14 18 14 14 18 14"></polyline>
+            <polyline id="Stroke-32" stroke="#5B3AF0" stroke-width="3" mask="url(#mask-2)" points="51 17 51 21 47 21"></polyline>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Stroke-33" stroke="#5B3AF0" stroke-width="3" stroke-dasharray="3,3" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

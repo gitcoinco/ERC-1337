@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Social Media Icons/LinkedIn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.259059368,5.31274131 L3.57748651,5.31274131 L3.57748651,16 L0.259059368,16 L0.259059368,5.31274131 Z M1.92444102,0 C2.98535081,0 3.84888204,0.864864865 3.84888204,1.92741313 C3.84888204,2.98996139 2.98535081,3.85482625 1.92444102,3.85482625 C0.857363146,3.85482625 7.10542736e-15,2.98996139 7.10542736e-15,1.92741313 C7.10542736e-15,0.864864865 0.857363146,0 1.92444102,0 Z M5.66229761,5.31274131 L8.83885891,5.31274131 L8.83885891,6.77683398 L8.88203547,6.77683398 C9.32613724,5.93667954 10.4055513,5.05328185 12.0215883,5.05328185 C15.3770239,5.05328185 16,7.26486486 16,10.1436293 L16,16 L12.6877409,16 L12.6877409,10.8046332 C12.6877409,9.56293436 12.6692367,7.96911197 10.9668466,7.96911197 C9.23978412,7.96911197 8.98072475,9.32200772 8.98072475,10.7119691 L8.98072475,16 L5.66846569,16 L5.66846569,5.31274131 L5.66229761,5.31274131 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="content-blocks/team-member-card" transform="translate(-116.000000, -207.000000)">
+            <g id="team-member-card" transform="translate(72.000000, 30.000000)">
+                <g id="social-icons-profile" transform="translate(5.000000, 177.000000)">
+                    <g id="social-media-icons/LinkedIn" transform="translate(39.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Linkedin" fill="#354052" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <g id="🎨-Colour/Jet-Navy" mask="url(#mask-2)" fill="#91CAFF" fill-rule="evenodd">
+                            <rect id="Brand/Colour/22313F" x="0" y="0" width="16" height="16"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

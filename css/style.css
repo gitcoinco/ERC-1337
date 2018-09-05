@@ -9,12 +9,15 @@
   font-weight: bold;
 }
 /* --------Basic Stylings------- */
+html{
+  box-sizing: border-box;
+}
 body{
   font-family: Din;
-  box-sizing: border-box;
   background: #FAFCFB;
   font-size: 14px;
   letter-spacing: 0.34px;
+  margin: 0;
 }
 
 h1,h2,h3,h4,span, button{
@@ -29,6 +32,7 @@ a{
 h4{
     text-align: center;
     padding-top: 4%;
+    margin-left: 2%;
 }
 p{
   line-height: 44px;
@@ -79,7 +83,7 @@ header h5{
 /* --------Main Section Styles------- */
 
 section{
-  padding: 25px 180px ;
+  padding: 2% 6%;
 }
 .row, .feature-heading, .quote, ul {
   display: flex;
@@ -142,7 +146,7 @@ h5{
 }
 .project{
     margin: 30px;
-    max-width: 120px;
+    width: 120px;
 }
 
 /* --------Team Member Section------- */
@@ -174,7 +178,7 @@ h5{
     font-size: 18px;
 }
 .news-article{
-    width: 305px;
+    width: 30%;
     margin: 20px auto;
     padding-bottom: 3%;
 }
@@ -193,13 +197,12 @@ h5{
 footer{
   background: rgba(17,17,17,.75);
   color: white;
-  padding: 50px 150px;
+  padding: 2% 5%;
 }
 .footer-container{
     border-bottom: 1px solid #AAC5FF;
     display: flex;
     padding-bottom: 2%;
-    flex-wrap: wrap;
 }
 footer a{
     color: white;
@@ -227,30 +230,25 @@ footer span{
 }
 .footer-social{
     display: flex;
-    flex-wrap: wrap;
     margin: 0;
 }
 /* --------Media Queries------- */
-@media screen and (min-width: 1290px){
-  .news-article:nth-of-type(-n+4){
-    border-bottom: 1px solid #3172FD;
-  }
-  section {
-    padding: 25px 100px;
-  }
-}
+
 @media screen and (max-width: 960px) {
   .profile{
     width: 40%;
-  }
-  section{
-    padding: 2%;
   }
   .col1{
     width: 100%;
   }
   h1{
     font-size: 3rem;
+  }
+  .news-article{
+    width: 45%;
+  }
+  .news-article:nth-of-type(-n+4){
+    border-bottom: 1px solid #3172FD;
   }
 }
 @media screen and (max-width: 760px) {
@@ -271,5 +269,14 @@ footer span{
 @media screen and (max-width: 650px){
   .news-article:nth-of-type(-n+5){
     border-bottom: 1px solid #3172FD;
+  }
+  .news-article{
+    width: 70%;
+  }
+  .footer-container{
+    flex-wrap: wrap;
+  }
+  .footer-social{
+    flex-direction: column;
   }
 }

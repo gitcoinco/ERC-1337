@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Social Media Icons/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.784958333,0 C0.351430556,0 0,0.351444444 0,0.784958333 L0,13.4372639 C0,13.87075 0.351319444,14.2222222 0.784958333,14.2222222 L7.59722222,14.2222222 L7.59722222,8.72222222 L5.75,8.72222222 L5.75,6.56944444 L7.59722222,6.56944444 L7.59722222,4.98519444 C7.59722222,3.14822222 8.71906944,2.14794444 10.3577083,2.14794444 C11.1426111,2.14794444 11.8172361,2.20638889 12.0138889,2.23251389 L12.0138889,4.15226389 L10.8837778,4.15277778 C9.99209722,4.15277778 9.81944444,4.5765 9.81944444,5.19829167 L9.81944444,6.56944444 L11.9512083,6.56944444 L11.673625,8.72222222 L9.81944444,8.72222222 L9.81944444,14.2222222 L13.4372778,14.2222222 C13.8707917,14.2222222 14.2222222,13.8707917 14.2222222,13.4372778 L14.2222222,0.784958333 C14.2222222,0.351444444 13.8707778,0 13.43725,0 L0.784958333,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="content-blocks/team-member-card" transform="translate(-77.000000, -208.000000)">
+            <g id="team-member-card" transform="translate(72.000000, 30.000000)">
+                <g id="social-icons-profile" transform="translate(5.000000, 177.000000)">
+                    <g id="social-media-icons/facebook" transform="translate(0.000000, 1.000000)">
+                        <g id="icon-colour" transform="translate(0.888889, 0.888889)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#020303" xlink:href="#path-1"></use>
+                            <g id="🎨-Colour/Jet-Navy" mask="url(#mask-2)" fill="#91CAFF">
+                                <g transform="translate(-0.888889, -0.888889)" id="Brand/Colour/22313F">
+                                    <rect x="0" y="0" width="16" height="16"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
