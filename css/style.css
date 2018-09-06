@@ -169,7 +169,11 @@ h5{
 .profile a{
   padding: 5%;
 }
-
+.team-picture{
+  width: 108px;
+  height: 108px;
+  border-radius: 100%;
+}
 /* --------News Section------- */
 .news{
     display: flex;
