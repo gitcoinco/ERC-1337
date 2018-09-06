@@ -58,10 +58,12 @@ nav a{
   padding: 0 25px 0 25px;
 }
 header{
-  background: url("../assets/header.png");
+  background: url("../assets/header.svg");
   height: auto;
   width: 100%;
   background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 nav{
   display: flex;
@@ -143,6 +145,7 @@ h5{
     /* display: flex;
     flex-wrap: wrap; */
     margin: 0 auto;
+    text-align: center;
 }
 .project{
     margin: 30px;
