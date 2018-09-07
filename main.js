@@ -4,7 +4,7 @@ $(window).on('scroll',function(){
   if( top >=250){
     $('.quote img').attr('src', 'assets/ethmoney_animated.svg');
   }
-  if( top >=250){
+  if( top >=350){
     $('#newspaper-icon').attr('src', 'assets/newspaper_animated.svg');
     $('#network-icon').attr('src', 'assets/network_animated.svg');
   }
