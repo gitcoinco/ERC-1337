@@ -161,6 +161,8 @@ h5{
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
+  text-align: center;
+  justify-content: center;
 }
 .profile{
   width: 20%;
