@@ -28,6 +28,7 @@ h1,h2,h3,h4,span, button{
 }
 a{
     text-decoration: none;
+    cursor: pointer;
 }
 h4{
     text-align: center;
