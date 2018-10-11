@@ -1,5 +1,7 @@
 ## ERC-1337
-### ETHEREUM SUBSCRIPTION STANDARD
+### ETHEREUM SUBSCRIPTION STANDARD 
+
+### The Standard
 
 A STANDARDIZED INTERFACE FOR RECURRING SUBSCRIPTIONS ON THE BLOCKCHAIN.
 
@@ -7,4 +9,8 @@ We suggest the reason for this standard is interoperability - we want wallets to
 
 We also believe that creating momentum for Saas models in the Ethereum space is critical, and believe that the standard is a trojan horse for doing so.
 
-Find more info [here](https://gitcoinco.github.io/ERC-1337/)
+### This repo 
+
+This repo is the website for 1337 alliance. 
+
+Find more info at [http://1337alliance.com](http://1337alliance.com)
