@@ -152,6 +152,8 @@ h5{
 .project{
     margin: 30px;
     width: 120px;
+    height: 120px;
+    object-fit: contain;
 }
 
 /* --------Team Member Section------- */
